@@ -34,4 +34,16 @@
 - [다양한 설정 형식 지원 - 자바 코드, XML](https://github.com/Jammini/spring-core-principles/issues/29)
 - [스프링 빈 설정 메타 정보 - BeanDefinition](https://github.com/Jammini/spring-core-principles/issues/30)
 
+### 섹션 5. 싱글톤 컨테이너
+- [웹 애플리케이션과 싱글톤](https://github.com/Jammini/spring-core-principles/issues/32)
+- [싱글톤패턴](https://github.com/Jammini/spring-core-principles/issues/33)
+- [싱글톤 컨테이너](https://github.com/Jammini/spring-core-principles/issues/35)
+- [싱글톤 방식의 주의점](https://github.com/Jammini/spring-core-principles/issues/36)
+- [@Configuration과 싱글톤](https://github.com/Jammini/spring-core-principles/issues/37)
+- [@Configuration과 바이트코드 조작의 마법](https://github.com/Jammini/spring-core-principles/issues/38)
 
+### 섹션 6. 컴포넌트 스캔
+- [컴포넌트 스캔과 의존관계 자동 주입 시작하기](https://github.com/Jammini/spring-core-principles/issues/39)
+- [탐색 위치와 기본 스캔 대상](https://github.com/Jammini/spring-core-principles/issues/41)
+- [필터](https://github.com/Jammini/spring-core-principles/issues/42)
+- [중복 등록과 충돌](https://github.com/Jammini/spring-core-principles/issues/43)
