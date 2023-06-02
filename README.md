@@ -47,3 +47,30 @@
 - [탐색 위치와 기본 스캔 대상](https://github.com/Jammini/spring-core-principles/issues/41)
 - [필터](https://github.com/Jammini/spring-core-principles/issues/42)
 - [중복 등록과 충돌](https://github.com/Jammini/spring-core-principles/issues/43)
+
+### 섹션 7. 의존관계 자동 주입
+- [다양한 의존관계 주입 방법](https://github.com/Jammini/spring-core-principles/issues/44)
+- [옵션 처리](https://github.com/Jammini/spring-core-principles/issues/45)
+- [생성자 주입을 선택해라!](https://github.com/Jammini/spring-core-principles/issues/46)
+- [롬복과 최신 트랜드](https://github.com/Jammini/spring-core-principles/issues/47)
+- [조회 빈이 2개 이상 - 문제](https://github.com/Jammini/spring-core-principles/issues/48)
+- [@Autowired 필드 명, @Qualifier, @Primary](https://github.com/Jammini/spring-core-principles/issues/50)
+- [애노테이션 직접 만들기](https://github.com/Jammini/spring-core-principles/issues/51)
+- [조회한 빈이 모두 필요할 때, List, Map](https://github.com/Jammini/spring-core-principles/issues/52)
+- [자동, 수동의 올바른 실무 운영 기준](https://github.com/Jammini/spring-core-principles/issues/53)
+
+### 섹션 8. 빈 생명주기 콜백
+- [빈 생명주기 콜백 시작](https://github.com/Jammini/spring-core-principles/issues/54)
+- [인터페이스 InitializingBean, DisposableBean](https://github.com/Jammini/spring-core-principles/issues/56)
+- [빈 등록 초기화, 소멸 메서드](https://github.com/Jammini/spring-core-principles/issues/57)
+- [애노테이션 @PostConstruct, @PreDestroy](https://github.com/Jammini/spring-core-principles/issues/58)
+
+### 섹션 9. 빈 스코프
+- [빈 스코프란?](https://github.com/Jammini/spring-core-principles/issues/61)
+- [프로토타입 스코프](https://github.com/Jammini/spring-core-principles/issues/62)
+- [프로토타입 스코프 - 싱글톤 빈과 함께 사용시 문제점](https://github.com/Jammini/spring-core-principles/issues/64)
+- [프로토타입 스코프 - 싱글톤 빈과 함께 사용시 Provider로 문제 해결](https://github.com/Jammini/spring-core-principles/issues/65)
+- [웹 스코프](https://github.com/Jammini/spring-core-principles/issues/66)
+- [request 스코프 예제 만들기](https://github.com/Jammini/spring-core-principles/issues/67)
+- [스코프와 Provider](https://github.com/Jammini/spring-core-principles/issues/68)
+- [스코프와 프록시](https://github.com/Jammini/spring-core-principles/issues/69)
